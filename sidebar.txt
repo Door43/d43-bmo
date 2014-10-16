@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmo:home|Door43 (bmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmo|d43-bmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmo/archive/master.zip|d43-bmo.zip]]
+
+**Recent Changes**
+{{changes>ns = bmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmo|Ethnologue data]]
+
